@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RisebroBlog_WebApp", "RisebroBlog_WebApp\RisebroBlog_WebApp.csproj", "{EAB336CA-2F86-49A8-AF1B-BFA4675803F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RisebroBlogLibrary", "RisebroBlogLibrary\RisebroBlogLibrary.csproj", "{45C82A0A-A614-4EB7-9260-1FDA8C582D0B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6A6DD0BE-DF0A-4818-919D-F25F3031D958}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAB336CA-2F86-49A8-AF1B-BFA4675803F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAB336CA-2F86-49A8-AF1B-BFA4675803F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAB336CA-2F86-49A8-AF1B-BFA4675803F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAB336CA-2F86-49A8-AF1B-BFA4675803F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45C82A0A-A614-4EB7-9260-1FDA8C582D0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45C82A0A-A614-4EB7-9260-1FDA8C582D0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45C82A0A-A614-4EB7-9260-1FDA8C582D0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45C82A0A-A614-4EB7-9260-1FDA8C582D0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5B0A649-0672-436B-B162-597909B40068}
+	EndGlobalSection
+EndGlobal
